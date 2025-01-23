@@ -17,8 +17,7 @@ This repository contains my work from the Dirty Data Cleaning course on foresigh
 
 Dirty data refers to datasets that contain errors, inconsistencies, or inaccuracies, making them unreliable for analysis. Common issues in dirty data include:
 
-* Missing or Null Values
-
+* Missing or Null Values 
 * Duplicate Records
 
 -> Inconsistent Formatting
