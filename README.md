@@ -3,11 +3,14 @@
 **Cleaning Dirty Data Samples with Power Query**
 
 **Introduction**
+
 This repository contains my work from the Dirty Data Cleaning course on foresightbi.com. The course provided eight different messy datasets, each with various data quality issues, such as missing values, incorrect formats, duplicates, and inconsistent entries.
 
 
 **What is Dirty Data?**
+
 Dirty data refers to datasets that contain errors, inconsistencies, or inaccuracies, making them unreliable for analysis. Common issues in dirty data include:
+
 -> Missing or Null Values
 -> Duplicate Records
 -> Inconsistent Formatting
@@ -16,12 +19,15 @@ Dirty data refers to datasets that contain errors, inconsistencies, or inaccurac
 -> Outdated or Irrelevant Entries
 
 
+
 **Why is Cleaning Dirty Data Important?**
+
 -> Ensures Accuracy – Eliminates errors, duplicates, and inconsistencies that can lead to misleading insights.
 -> Improves Efficiency – Clean data speeds up processing, analysis, and decision-making.
 -> Maintains Consistency – Standardizes formats (e.g., dates, text case) for smooth integration across systems.
 -> Prevents Costly Mistakes – Reduces the risk of incorrect reports, flawed analysis, and poor business decisions.
 -> Prepares Data for Analysis – Structured and error-free data is essential for reliable reports, dashboards, and predictive models.
+
 
 
 **How I Cleaned the Data**
