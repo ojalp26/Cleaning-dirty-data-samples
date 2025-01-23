@@ -1,1 +1,30 @@
+Sample 3: Badly Structured Data
 
+This dataset was unstructured, making it difficult to analyze. The following steps were performed in Power Query to clean and transform it into a usable format:
+
+1) Merged Columns
+Two or more columns were combined into one, likely to unify fragmented data (e.g., merging first and last names or joining related categories).
+
+2) Transposed Table
+The rows and columns were swapped to restructure the dataset into a more logical format.
+
+3) Promoted Headers
+The first row was set as column headers to ensure proper labeling of the data.
+
+4) Changed Type
+Data types were adjusted (e.g., converting text to numbers or dates) to ensure consistency and prevent errors in calculations.
+
+5) Filled Down
+Missing values were filled with the previous row’s data to maintain completeness and avoid blank entries.
+
+6) Unpivoted Other Columns
+The dataset was transformed from a wide format to a long format, making it easier for analysis and visualization.
+
+7) Split Column by Delimiter
+A column was split into multiple columns based on a specific delimiter (e.g., separating names, addresses, or codes).
+
+8) Changed Type (Again)
+A final data type adjustment was made to ensure all columns had the correct format.
+
+9) Renamed Columns
+Columns were renamed for clarity, making the dataset easier to understand and work with.
