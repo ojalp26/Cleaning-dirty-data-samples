@@ -1,1 +1,36 @@
+Sample 5: Jumbled Up Customer Details
 
+This dataset contained unstructured customer details that needed to be cleaned and separated into meaningful fields. The following steps were performed in Power Query to transform the data:
+
+1) Changed Type
+The initial data types were corrected (e.g., converting text to numbers, dates, or other appropriate formats).
+
+2) Split Column by Delimiter
+A column was split into multiple columns based on a specific delimiter (e.g., separating full names, addresses, or combined data fields).
+
+3) Changed Type (Again)
+After splitting, data types were reassigned to ensure accuracy (e.g., ensuring numeric fields remain numbers).
+
+4) Removed Columns
+Irrelevant or unnecessary columns were removed to focus only on useful customer details.
+
+5) Split Column by Delimiter (Again)
+Another column was split using a delimiter to further break down complex data fields.
+
+6) Changed Type (Repeated for Accuracy)
+After splitting, data types were adjusted again to maintain consistency.
+
+7) Split Column by Delimiter (Third Time)
+Additional data fields were separated by another delimiter, further organizing customer information.
+
+8) Changed Type (Final Corrections)
+Data types were checked and corrected to ensure uniformity across all columns.
+
+9) Split Column by Delimiter (Fourth Time)
+A final split operation was applied to extract the remaining meaningful information from a combined column.
+
+10) Changed Type (Final Check)
+A last data type conversion was applied to ensure all columns had the correct format.
+
+11) Renamed Columns
+All columns were renamed to make the dataset clear, structured, and easy to understand.
