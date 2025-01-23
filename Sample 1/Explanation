@@ -1,0 +1,30 @@
+Sample 1: Badly Structured Data
+
+In this dataset, the data was poorly structured, which meant it was not in a format suitable for analysis. 
+The following steps were performed in Power Query to clean and structure it properly:
+
+1) Removed Columns
+Unnecessary or irrelevant columns were deleted to focus only on the columns that contained useful data for analysis.
+
+2) Removed Bottom Rows
+Extra rows at the bottom of the dataset (often containing irrelevant information or blank spaces) were removed to ensure only the data of interest remains.
+
+3) Transposed Table
+The rows and columns were swapped using the Transpose feature, which can be helpful when data is originally organized in a way that doesn’t align with the analysis goals (e.g., data in columns was meant to be in rows).
+
+4) Promoted Headers
+The first row was set as the column headers. This is crucial when the dataset's first row contains the actual column names, but they might not have been recognized as headers initially.
+
+5) Changed Data Types
+The data types of certain columns were adjusted (e.g., converting text to numbers or dates) to make the data compatible with analysis tools and functions.
+
+6) Filled Down
+Missing values (nulls) in certain columns were filled with the values from the row above (this is often used to propagate the correct data when values are missing in rows under headings).
+
+7) Unpivoted Other Columns
+The data structure was made "long" rather than "wide" by unpivoting. This process flips columns into rows, creating a more analysis-friendly format, especially for time-series or categorical data.
+
+8) Renamed Columns
+Column names were updated to be more descriptive and easier to understand. This is important for clarity and making the dataset more user-friendly for others or for later analysis.
+
+
