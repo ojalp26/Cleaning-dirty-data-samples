@@ -1,1 +1,63 @@
+Sample 8: Invoices with Merged Categories and Merged Amounts
+
+This dataset involved two different dirty data samples that needed to be cleaned separately and then merged. The following Power Query steps were applied to transform and structure the data properly:
+
+--> Cleaning Dirty Sample 1:
+
+1) Changed Type
+The initial data types were assigned to ensure correct formatting (e.g., text, numbers, or dates).
+
+2) Promoted Headers
+The first row was promoted to headers for proper column labeling.
+
+3) Changed Type (Again)
+A second type conversion was applied to ensure correct data types in all columns.
+
+4) Removed Columns
+Irrelevant or unnecessary columns were removed to focus only on useful data.
+
+5) Split Column by Delimiter
+A column containing multiple values was split into separate columns using a delimiter (e.g., splitting merged categories or amounts).
+
+6) Changed Type (After Splitting)
+The split columns were assigned appropriate data types for accuracy.
+
+7) Added Index
+An index column was added to maintain order and establish unique identifiers for merging.
+
+8) Merged Queries
+This dataset was merged with the second dataset (Dirty Sample 2) to combine relevant data.
+
+9) Expanded Dirty 8 (2)
+After merging, the combined dataset was expanded to display all relevant columns.
+
+10) Removed Columns (Again)
+Additional unnecessary columns were removed after merging to refine the dataset.
+
+11) Renamed Columns
+Columns were renamed for clarity and ease of understanding.
+
+
+--> Cleaning Dirty Sample 2:
+
+1) Changed Type
+Data types were assigned to ensure correct formatting.
+
+2) Promoted Headers
+The first row was promoted as headers to label columns properly.
+
+3) Changed Type (Again)
+Another type conversion was performed to maintain consistency.
+
+4)Removed Columns
+Irrelevant columns were removed to streamline the dataset.
+
+5) Split Column by Delimiter
+A column containing multiple values was split into separate fields for clarity.
+
+6) Changed Type (After Splitting)
+The newly created columns were assigned the correct data types.
+
+7) Added Index
+An index column was added to facilitate merging with the first dataset.
 
