@@ -19,31 +19,23 @@ Dirty data refers to datasets that contain errors, inconsistencies, or inaccurac
 
 * Missing or Null Values 
 * Duplicate Records
-
--> Inconsistent Formatting
-
--> Misspellings and Typos
-
--> Incorrect Data Types
-
--> Outdated or Irrelevant Entries
+* Inconsistent Formatting
+* Misspellings and Typos
+* Incorrect Data Types
+* Outdated or Irrelevant Entries
 
 
 
-
+                  
 
 
 **Why is Cleaning Dirty Data Important?**
 
--> Ensures Accuracy – Eliminates errors, duplicates, and inconsistencies that can lead to misleading insights.
-
--> Improves Efficiency – Clean data speeds up processing, analysis, and decision-making.
-
--> Maintains Consistency – Standardizes formats (e.g., dates, text case) for smooth integration across systems.
-
--> Prevents Costly Mistakes – Reduces the risk of incorrect reports, flawed analysis, and poor business decisions.
-
--> Prepares Data for Analysis – Structured and error-free data is essential for reliable reports, dashboards, and predictive models.
+* Ensures Accuracy – Eliminates errors, duplicates, and inconsistencies that can lead to misleading insights.
+* Improves Efficiency – Clean data speeds up processing, analysis, and decision-making.
+* Maintains Consistency – Standardizes formats (e.g., dates, text case) for smooth integration across systems.
+* Prevents Costly Mistakes – Reduces the risk of incorrect reports, flawed analysis, and poor business decisions.
+* Prepares Data for Analysis – Structured and error-free data is essential for reliable reports, dashboards, and predictive models.
 
 
 
@@ -55,21 +47,14 @@ Dirty data refers to datasets that contain errors, inconsistencies, or inaccurac
 
 I used Power Query in Excel to clean and structure the datasets. My approach included:
 
--> Removing Duplicates – Identifying and eliminating redundant records.
-
--> Handling Missing Data – Replacing null values with appropriate defaults or interpolations.
-
--> Correcting Data Types – Converting text, numbers, and dates into their correct formats.
-
--> Standardizing Formats – Ensuring consistent date formats, text casing, and numerical precision.
-
--> Splitting and Merging Columns – Fixing improperly structured data.
-
--> Using Conditional Columns – Creating logic-based transformations for better accuracy.
-
--> Replacing Errors – Identifying and correcting erroneous entries.
-
--> Applying Business Rules – Aligning data with expected business logic.
+* Removing Duplicates – Identifying and eliminating redundant records.
+* Handling Missing Data – Replacing null values with appropriate defaults or interpolations.
+* Correcting Data Types – Converting text, numbers, and dates into their correct formats.
+* Standardizing Formats – Ensuring consistent date formats, text casing, and numerical precision.
+* Splitting and Merging Columns – Fixing improperly structured data.
+* Using Conditional Columns – Creating logic-based transformations for better accuracy.
+* Replacing Errors – Identifying and correcting erroneous entries.
+* Applying Business Rules – Aligning data with expected business logic.
 
 
 
