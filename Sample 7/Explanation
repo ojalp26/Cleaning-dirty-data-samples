@@ -1,1 +1,26 @@
+Sample 7: Medicine Data with Lumped Quantity and Measure
+
+This dataset contained medicine data where the quantity and measurement units were combined into a single column, making it difficult to analyze. The following Power Query steps were applied to clean and structure the data:
+
+
+1) Changed Type
+The initial data types were assigned to ensure correct formatting (e.g., text, numbers, or dates).
+
+2) Promoted Headers
+The first row was promoted to headers to properly label each column.
+
+3) Changed Type (Again)
+A second data type conversion was applied to ensure all columns had the correct formatting.
+
+4)Split Column by Delimiter
+The column containing both quantity and measurement units was split into separate columns based on a delimiter (e.g., splitting "500mg" into "500" and "mg").
+
+5) Changed Type (After Splitting)
+The split columns were assigned appropriate data types (e.g., numbers for quantities and text for units).
+
+6) Renamed Columns
+The newly created columns were renamed to make them more descriptive and easier to understand.
+
+7) Replaced Value
+Certain values were replaced to standardize the dataset (e.g., converting different unit variations like "mg." to "mg" for consistency).
 
