@@ -1,1 +1,25 @@
+Sample 6: Hospital Data Mixed with Numbers and Characters
 
+This dataset contained a mix of numbers and characters, making it difficult to analyze. The following Power Query steps were applied to clean and standardize the data:
+
+
+1) Promoted Headers
+The first row was promoted to headers to properly label each column.
+
+2) Changed Type
+Data types were assigned to ensure numeric values, dates, and text were recognized correctly.
+
+3) Replaced Errors
+Errors in the dataset (e.g., invalid characters in numeric fields) were identified and replaced with appropriate values (such as nulls or defaults).
+
+4) Changed Type (Again)
+Another type conversion was applied after error handling to ensure consistency.
+
+5) Replaced Errors (Second Time)
+More errors were handled, likely in different columns, ensuring clean and usable data.
+
+6) Changed Type (Final Adjustments)
+A final check was performed to assign proper data types where needed.
+
+7) Replaced Errors (Final Pass)
+Any remaining errors were replaced, ensuring the dataset was fully cleaned and ready for analysis.
