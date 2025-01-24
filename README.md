@@ -92,7 +92,7 @@ Below is a summary of the eight datasets I cleaned:
 
 As part of this project, I cleaned 8 different dirty data samples using Power Query in Excel as mentioned above, to demonstrate the data cleaning process, here’s a video showcasing one of the samples, where I applied key transformations:  
 
-🔗 Watch the video on LinkedIn: [Click here](https://www.linkedin.com/posts/ojal-paturday-7246ab321_datacleaning-powerquery-excel-activity-7288520280572878848-iamB?utm_source=share&utm_medium=member_desktop)   
+🔗 Watch the video on LinkedIn: [Click here](https://www.linkedin.com/posts/ojal-paturday-7246ab321_datacleaning-powerquery-excel-activity-7288527758840721408-aamH?utm_source=share&utm_medium=member_desktop)   
 
 This video serves as proof of work and a quick explanation of how I cleaned messy data and transformed it into a structured format.  
 
