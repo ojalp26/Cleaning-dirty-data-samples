@@ -7,7 +7,7 @@
 
 **Introduction** 
 
-This repository contains my work from the Dirty Data Cleaning course on foresightbi.com. The course provided eight different messy datasets, each with various data quality issues, such as missing values, incorrect formats, duplicates, and inconsistent entries.
+This repository contains my work from the Dirty Data Cleaning course on foresightbi. The course provided eight different messy datasets, each with various data quality issues, such as missing values, incorrect formats, duplicates, and inconsistent entries.
 
 <br> 
 
