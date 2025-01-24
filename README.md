@@ -59,7 +59,7 @@ Below is a summary of the eight datasets I cleaned:
 
 3) Sample 3 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%203)
 
-4) Sample 4 : Badly Structured Data
+4) Sample 4 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%204)
 
 5) Sample 5 : 
 
