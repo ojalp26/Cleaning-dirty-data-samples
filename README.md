@@ -53,21 +53,29 @@ I used Power Query in Excel to clean and structure the datasets. My approach inc
 
 Below is a summary of the eight datasets I cleaned:
 
-1) Sample 1 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%201)
+* Sample 1 : Badly Structured Data
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%201)
 
-2) Sample 2 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%202)
+* Sample 2 : Badly Structured Data
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%202)
 
-3) Sample 3 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%203)
+* Sample 3 : Badly Structured Data
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%203)
 
-4) Sample 4 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%204)
+* Sample 4 : Badly Structured Data
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%204)
 
-5) Sample 5 : 
+* Sample 5 : Jumbled Customer Details
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%205)
 
-6) Sample 6 :
+* Sample 6 : Hospital Data with Mixed Numbers and Characters
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%206)
 
-7) Sample 7 :
+* Sample 7 : Medicines Data with Lumped Quantity and Measure
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%207)
 
-8) Sample 8 :
+* Sample 8 : Invoices with Merged Categories and Merged Amounts
+  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%208)
 
 
 <br>
