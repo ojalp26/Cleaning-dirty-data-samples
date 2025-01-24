@@ -34,7 +34,7 @@ Dirty data refers to datasets that contain errors, inconsistencies, or inaccurac
 
 <br> 
 
-**How I Cleaned the Data**
+**How I Cleaned the Data?**
 
 I used Power Query in Excel to clean and structure the datasets. My approach included:
 
