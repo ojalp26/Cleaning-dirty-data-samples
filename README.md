@@ -53,23 +53,23 @@ I used Power Query in Excel to clean and structure the datasets. My approach inc
 
 Below is a summary of the eight datasets I cleaned:
 
-* Sample 1 : Badly Structured Data
+* Sample 1 : Badly Structured Sales Data
 
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%201)
 
-* Sample 2 : Badly Structured Data
+* Sample 2 : Badly Structured Sales Data
 
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%202)
 
-* Sample 3 : Badly Structured Data
+* Sample 3 : Badly Structured Sales Data
 
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%203)
 
-* Sample 4 : Badly Structured Data
+* Sample 4 : Badly Structured Sale Data
 
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%204)
 
-* Sample 5 : Jumbled Customer Details
+* Sample 5 : Jumbled Customer Details Data
 
    [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%205)
 
@@ -81,7 +81,7 @@ Below is a summary of the eight datasets I cleaned:
 
    [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%207)
 
-* Sample 8 : Invoices with Merged Categories and Merged Amounts
+* Sample 8 : Invoices with Merged Categories and Merged Amounts Data
 
    [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%208)
 
