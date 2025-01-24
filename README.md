@@ -99,6 +99,7 @@ This video serves as proof of work and a quick explanation of how I cleaned mess
 <br>
 
 **Certification**
+
 I successfully completed the Dirty Data Cleaning Course from Foresight BI, where I learned how to clean and transform messy datasets using Power Query in Excel. This certification validates my skills in handling real-world data cleaning challenges, ensuring data is structured, accurate, and ready for analysis.
 
 🔗 Certificate Link: [Click here](https://training.foresightbi.com.ng/certificates/alqutwdeag)
