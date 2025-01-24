@@ -86,7 +86,16 @@ Below is a summary of the eight datasets I cleaned:
    [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%208)
 
 
-<br> 
+<br>  
+
+**Dirty Data Cleaning – Step-by-Step Demo Vedio**  
+
+As part of this project, I cleaned 8 different dirty data samples using Power Query in Excel as mentioned above, to demonstrate the data cleaning process, here’s a video showcasing one of the samples, where I applied key transformations:  
+🔗 Watch the video on LinkedIn: [Click here](https://www.linkedin.com/posts/ojal-paturday-7246ab321_datacleaning-powerquery-excel-activity-7288520280572878848-iamB?utm_source=share&utm_medium=member_desktop)   
+
+This video serves as proof of work and a quick explanation of how I cleaned messy data and transformed it into a structured format.  
+
+<br>
 
 **Certification**
 I successfully completed the Dirty Data Cleaning Course from Foresight BI, where I learned how to clean and transform messy datasets using Power Query in Excel. This certification validates my skills in handling real-world data cleaning challenges, ensuring data is structured, accurate, and ready for analysis.
