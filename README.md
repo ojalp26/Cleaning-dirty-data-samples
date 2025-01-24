@@ -53,21 +53,21 @@ I used Power Query in Excel to clean and structure the datasets. My approach inc
 
 Below is a summary of the eight datasets I cleaned:
 
-1)
+1) Sample 1 : Badly Structured Data [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%201)
 
-2)
+2) Sample 2 : Badly Structured Data
 
-3)
+3) Sample 3 : Badly Structured Data
 
-4)
+4) Sample 4 : Badly Structured Data
 
-5)
+5) Sample 5 : 
 
-6)
+6) Sample 6 :
 
-7)
+7) Sample 7 :
 
-8)
+8) Sample 8 :
 
 
 <br>
