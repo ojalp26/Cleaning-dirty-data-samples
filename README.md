@@ -3,13 +3,13 @@
 **Let's learn how to Clean Dirty Data Samples with Power Query**
 
 
-<br>
+<br> <br>
 
 **Introduction** 
 
 This repository contains my work from the Dirty Data Cleaning course on foresightbi.com. The course provided eight different messy datasets, each with various data quality issues, such as missing values, incorrect formats, duplicates, and inconsistent entries.
 
-<br>
+<br> <br>
 
 **What is Dirty Data?**
 
@@ -22,7 +22,7 @@ Dirty data refers to datasets that contain errors, inconsistencies, or inaccurac
 * Incorrect Data Types
 * Outdated or Irrelevant Entries
 
-<br>
+<br> <br>
 
 **Why is Cleaning Dirty Data Important?**
 
@@ -32,7 +32,7 @@ Dirty data refers to datasets that contain errors, inconsistencies, or inaccurac
 * Prevents Costly Mistakes – Reduces the risk of incorrect reports, flawed analysis, and poor business decisions.
 * Prepares Data for Analysis – Structured and error-free data is essential for reliable reports, dashboards, and predictive models.
 
-<br>
+<be> <br>
 
 **How I Cleaned the Data**
 
@@ -47,38 +47,46 @@ I used Power Query in Excel to clean and structure the datasets. My approach inc
 * Replacing Errors – Identifying and correcting erroneous entries.
 * Applying Business Rules – Aligning data with expected business logic.
 
-<br>
+<br> <br>
 
 **Data Samples**
 
 Below is a summary of the eight datasets I cleaned:
 
 * Sample 1 : Badly Structured Data
+
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%201)
 
 * Sample 2 : Badly Structured Data
+
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%202)
 
 * Sample 3 : Badly Structured Data
+
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%203)
 
 * Sample 4 : Badly Structured Data
+
   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%204)
 
 * Sample 5 : Jumbled Customer Details
-  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%205)
+
+   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%205)
 
 * Sample 6 : Hospital Data with Mixed Numbers and Characters
-  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%206)
+
+   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%206)
 
 * Sample 7 : Medicines Data with Lumped Quantity and Measure
-  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%207)
+
+   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%207)
 
 * Sample 8 : Invoices with Merged Categories and Merged Amounts
-  [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%208)
+
+   [Click here](https://github.com/ojalp26/Cleaning-dirty-data-samples/tree/main/Sample%208)
 
 
-<br>
+<br> <br>
 
 **Conclusion**
 
